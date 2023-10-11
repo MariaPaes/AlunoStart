@@ -1,5 +1,8 @@
 # Sistema de Verificação de Notas de Estudante
 
+
+## Visão Geral
+
 Este é um código Java simples que permite aos estudantes inserir suas notas em três trimestres e calcula sua média. O objetivo é verificar se o aluno passou ou não, identificando quantos pontos faltaram para passar. O código inclui validações para garantir que as notas inseridas estejam dentro dos limites aceitáveis.
 
 
